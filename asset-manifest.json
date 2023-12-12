@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f9e722e.css",
+    "main.js": "/static/js/main.0dfe19a2.js",
+    "static/js/787.310ef707.chunk.js": "/static/js/787.310ef707.chunk.js",
+    "static/media/npay_sp_text.png": "/static/media/npay_sp_text.f44f8612c27392f70a9b.png",
+    "index.html": "/index.html",
+    "static/media/ico_kakao_32 (1).svg": "/static/media/ico_kakao_32 (1).309deb12bd234509bf4a.svg",
+    "main.6f9e722e.css.map": "/static/css/main.6f9e722e.css.map",
+    "main.0dfe19a2.js.map": "/static/js/main.0dfe19a2.js.map",
+    "787.310ef707.chunk.js.map": "/static/js/787.310ef707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f9e722e.css",
+    "static/js/main.0dfe19a2.js"
+  ]
+}
